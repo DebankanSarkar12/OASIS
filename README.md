@@ -1,4 +1,4 @@
-# OASIS
+# Oasis InfoByte 
 This GitHub repository documents the projects completed by a Web Development and Design intern at Oasis InfoByte. 
 The internship included three levels of tasks designed to challenge the intern's technical and creative skills. 
 Each level of task has its own folder, containing images and descriptions of the completed work.
@@ -54,13 +54,9 @@ The project has the following files:
 <a href="https://github.com/DebankanSarkar12/OIBGRIP/blob/main/Task3%20ToDo/todo.js">todo.js:</a> contains the JavaScript code for To Do functionality <br>
 
 
-
-
-
 ### My Experience at Oasis InfoByte
 
-
-
+<a href="https://debankansarkar.hashnode.dev/my-experience-at-oasis-infobyte "> Blog </a> :  I am grateful for the opportunity to have interned at Oasis Infobyte as a web developer. The experience has provided me with invaluable knowledge and skills that will serve me well in my future endeavours. <br>
 
 
 ### Contributing
