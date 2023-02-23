@@ -7,7 +7,7 @@ Each level of task has its own folder, containing images and descriptions of the
 
 This is a simple calculator project built using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It also has a clear button to reset the calculator.
 
-
+<img src="Task1Calculator/Images/Calculator.PNG">
 
 ### How to Use
 To use the calculator, simply open the index.html file in your browser. The calculator will be displayed on the screen. Enter the first number using the number buttons, then select the desired arithmetic operation (+, -, *, /, % , √ ) using the corresponding button. Enter the second number, then press the equal button (=) to get the result. To clear the calculator, click the AC button.
